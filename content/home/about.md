@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Collaborative Interactive Machine Learning",
+    "Real-time Physical Activity Recognition",
+    "Just-in-time Adaptive Intervention"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +35,8 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D student in the Personal Health Informatics program, an interdiscplinary program at Northeastern University, affiliated with College of Computer and Information Science and Bouvé College of Health Sciences. I am also a member of the mHealth research group led by Prof. Stephen Intille.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interest lies on building and validating people-facing technological solutions for health using a multidiscplinary approach. So far, my work has focused on (i) ubiquitous sensing via wearable sensors (e.g.: smartwatch, smartphone, and accelerometers), (ii) data-driven and common-sense driven machine learning for modeling physical behavior, (iii) human-computer interfaces for user-in-the-loop machine learning, and (iv) behavior change theory for just-in-time adaptive intervention.
+
+I have academic, industry and clinical experience where I was fortunate to have worked with Profs. Hanli Liu (UTA), Gopinath Kaundinya (UTSW), Christine DeLorenzo (SBU), Todd Ogden (Columbia), John Mann (Columbia), Shiv Hiremath (Temple), Dinesh John (NEU), Junzi Dong (Philips Reseach NA).
