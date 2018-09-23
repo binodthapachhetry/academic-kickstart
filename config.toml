@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -66,12 +66,9 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "binod1[at]ccs[dot]neu[dot]edu"
+  address = "177 Huntington Avenue, 927W 9th Floor, Boston, MA, 02105"
+  office_hours = "9:00 to 19:00 or email for appointment"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -122,7 +119,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
