@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Collaborative Interactive Machine Learning",
-    "Real-time Physical Activity Recognition",
-    "Just-in-time Adaptive Intervention"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,7 +27,7 @@ weight = 5
   year = 2010
 
 [[education.courses]]
-  course = "BSc in Biology"
+  course = "B.Sc in Biology, 2008"
   institution = "University of Texas at Arlington"
   year = 2008
  
