@@ -27,10 +27,14 @@ weight = 5
   year = 2010
 
 [[education.courses]]
-  course = "B.Sc in Biology, 2008"
-  institution = "University of Texas at Arlington"
+  course = "BSc in Biology"
+  institution = "Universdgdgdgdfgsity of Texas at Arlington"
   year = 2008
  
 +++
+
 # Biography
-abcd.
+
+ganfosdspgsdgoisdgoisoig
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
