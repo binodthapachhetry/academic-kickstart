@@ -27,14 +27,14 @@ weight = 5
   year = 2010
 
 [[education.courses]]
-  course = "BSc in Biology"
-  institution = "Universdgdgdgdfgsity of Texas at Arlington"
+  course = "B.Sc in Biology, 2008"
+  institution = "University of Texas at Arlington"
   year = 2008
  
 +++
-
 # Biography
+I am a Ph.D student in the Personal Health Informatics program, an interdiscplinary program at Northeastern University, affiliated with College of Computer and Information Science and Bouve College of Health Sciences. I am also a member of the mHealth research group led by Prof. Stephen Intille.
 
-ganfosdspgsdgoisdgoisoig
+My research interest lies on building and validating people-facing technological solutions for health using a multidiscplinary approach. So far, my work has focused on (i) ubiquitous sensing via wearable sensors (e.g.: smartwatch, smartphone, and accelerometers), (ii) data-driven and common-sense driven machine learning for modeling physical behavior, (iii) human-computer interfaces for user-in-the-loop machine learning, and (iv) behavior change theory for just-in-time adaptive intervention.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have academic, industry and clinical experience where I was fortunate to have worked with Profs. Hanli Liu (UTA), Gopinath Kaundinya (UTSW), Christine DeLorenzo (SBU), Todd Ogden (Columbia), John Mann (Columbia), Shiv Hiremath (Temple), Dinesh John (NEU), Junzi Dong (Philips Reseach NA).
