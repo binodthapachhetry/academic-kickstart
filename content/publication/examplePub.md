@@ -1,16 +1,16 @@
 +++
 
-abstract = "An abstract..."
-authors = ["First author's name", "Second author's name"]
-date = "2013-07-01"
+abstract = "White matter abnormalities are implicated in major depressive disorder (MDD). As omega-3 polyunsaturated fatty acids (PUFAs) are low in MDD and affect myelination, we hypothesized that PUFA supplementation may alleviate depression through improving white matter integrity."
+authors = ["Thapa-Chhetry, B.", "Hezghia, A.", "Miller, J.", "Lee, S.", "Rubin-Falcone, H.", "Cooper, T.B.", "Oquendo, M.A.", "Mann, J.J.", "Sublette, M.E."]
+date = "2016-04-01"
 image = ""
 image_preview = ""
 math = false
-publication = "The publishing part of the citation goes here. You may use Markdown for italics etc."
-title = "A publication title, such as title of a paper"
+publication = "Journal of Psychiatric Research"
+title = "Omega-3 polyunsaturated fatty acid supplementation and white matter changes in major depression"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/binod1.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
