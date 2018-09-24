@@ -29,6 +29,7 @@ list_format = 1
 publication_type = "-1"
 
 # Optional featured image (relative to `static/img/` folder).
+[header]
 abstract = "jpt"
 authors = ["Rubin-Falcone,H.", "Zanderigo, F.", "**Thapa-Chhetry, B.**", "Lan, M.", "Miller, J.M.","Sublette, M.E.", "Oquendo, M.A.", "Hellerstein, D.J.", "McGrath, P.J.", "Stewart, J.W.", "Mann, J.J."]
 date = "2017-02-01"
