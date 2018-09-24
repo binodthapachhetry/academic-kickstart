@@ -300,6 +300,7 @@ enableGitInfo = false
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
   engine = 1
+  weight=1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
