@@ -1,6 +1,5 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "fsdf"
 draft = false
 
 # Tags: can be used for filtering projects.
