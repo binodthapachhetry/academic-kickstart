@@ -264,7 +264,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Posts"
@@ -274,7 +274,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Teaching"
@@ -300,7 +300,7 @@ enableGitInfo = false
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
   engine = 1
-  weight=1
+  weight=0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
