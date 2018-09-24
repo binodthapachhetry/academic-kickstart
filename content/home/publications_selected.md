@@ -4,7 +4,7 @@
 # `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = false
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
