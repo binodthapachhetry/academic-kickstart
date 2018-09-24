@@ -1,4 +1,5 @@
 +++
+
 abstract = "An abstract..."
 authors = ["First author's name", "Second author's name"]
 date = "2013-07-01"
@@ -13,4 +14,5 @@ url_pdf = "pdf/my-paper-name.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+
 +++
