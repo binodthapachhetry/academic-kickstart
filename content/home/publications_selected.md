@@ -31,7 +31,6 @@ list_format = 1
 publication_type = "-1"
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
 abstract = "*Background*: Bipolar Disorder (BD) cannot be reliably distinguished from Major Depressive Disorder (MDD) until the first manic or hypomanic episode. Consequently, many patients with BD are treated with antidepressants without mood stabilizers, a strategy that is often ineffective and carries a risk of inducing a manic episode. We previously reported reduced cortical thickness in right precuneus
 right caudal middle-frontal cortex and left inferior parietal cortex in BD compared with MDD.
 *Methods*: This study extends our previous work by performing individual level classification of BD or MDD in an expanded, currently unmedicated, cohort using gray matter volume (GMV) based on Magnetic Resonance Imaging and a Support Vector Machine. All patients were in a Major Depressive Episode and a leave-two-out analysis was performed.
